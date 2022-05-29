@@ -11,5 +11,5 @@ Some projects actually don't exist so far and will take you to a google site. My
 
 
 
-![portfolio](https://github.com/esgarsad/my-portfolio/blob/main/assets/images/portfolio.jpg?raw=true)
+![portfolio](https://github.com/esgarsad/my-portfolio/blob/main/assets/images/portfolio2.jpg?raw=true)
 
